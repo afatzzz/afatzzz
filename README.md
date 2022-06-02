@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @afatzzz
+- 👀 I’m interested in Java and Go
+- 🌱 I’m currently learning Blockchain technology
+- 💞️ I’m looking to collaborate on learning NFT, Cryptocurrency, DeFi
+- 📫 How to reach me andz.budiman@hotmail.com or by telegram (@afatz)
